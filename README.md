@@ -131,7 +131,7 @@ Project documentation
 
 ## 1. Clone the repository
 
-git clone https://github.com/eshan202005/AI-Mock-Interviewer.git
+git clone https://github.com/mohammadarif32/AI_Resume_Analyzer
 
 cd AI-Mock-Interviewer
 
